@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Bronze Conveyor",
+	"description": "Bronze Conveyor is a Early-mid game Conveyor with speed a little less than Titanium one.",
+	"requirements": [
+		{"item": "bronze", "amount": 2},
+		{"item": "tin", "amount": 1},
+		{"item": "copper", "amount": 1},
+	],
+	"category": "distribution",
+	"speed": 0.05,
+	"research": "conveyor"
+}

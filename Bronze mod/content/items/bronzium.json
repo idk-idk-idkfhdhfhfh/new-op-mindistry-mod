@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Bronzium",
+	"description": "Pretty expensive alloy of Bronze and Steel.",
+	"hardness": 1,
+	"cost": 8.0,
+	"color": "ffffff"
+}

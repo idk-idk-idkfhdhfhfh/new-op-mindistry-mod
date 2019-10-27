@@ -1,0 +1,31 @@
+{
+	"type": "GenericSmelter",
+	"name": "Steel Forge",
+	"description": "Combines Iron and Coal into Steel alloy",
+	"outputItem": {"item": "steel", "amount": 2},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 70,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 4.5,
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 2 }
+				{ "item": "iron", "amount": 1 }
+			]
+		},
+	},
+	"requirements": [
+		{ "item": "bronze", "amount": 150 },
+		{ "item": "lead", "amount": 100 },
+		{ "item": "graphite", "amount": 100 },
+		{ "item": "silicon", "amount": 100 },
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"research": "bronze-forge"
+	"idleSoundVolume": 0.5
+}
