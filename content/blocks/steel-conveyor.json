@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Steel Conveyor",
+	"description": "Steel Conveyor is a Mid-game Conveyor which is slightly better than Titanium coveyor.",
+	"requirements": [
+		{"item": "bronze", "amount": 2},
+		{"item": "tin", "amount": 1},
+		{"item": "copper", "amount": 1},
+	],
+	"category": "distribution",
+	"speed": 0.08666666,
+	"research": "conveyor"
+}
