@@ -17,7 +17,7 @@
 		"power": 0.6,
 		"liquid": {
 			"liquid": "slag",
-			"amount": 0.4
+			"amount": 0.2
 		}
 	},
 	"requirements": [

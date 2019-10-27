@@ -10,7 +10,7 @@
 	"craftTime": 60,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 4.0,
+		"power": 2.0,
 		"items": {
 			"items": [
 				{ "item": "tin", "amount": 1 }
