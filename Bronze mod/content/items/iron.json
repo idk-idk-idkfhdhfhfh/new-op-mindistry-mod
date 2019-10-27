@@ -1,8 +1,0 @@
-{
-	"type": "material",
-	"name": "iron",
-	"description": "Common ore.",
-	"hardness": 1,
-	"cost": 2.0,
-	"color": "4e4f55"
-}
