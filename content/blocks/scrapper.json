@@ -1,7 +1,7 @@
 {
 	"type": "Separator",
 	"name": "Scrapper",
-	"description": "Eh.",
+	"description": "Very cool thingy that can make iron and tin from slag! .",
 	"liquidCapacity": 50,
 	"results": [ 
 				{"item": "iron", "amount": 1},

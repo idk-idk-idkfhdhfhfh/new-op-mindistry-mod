@@ -5,6 +5,7 @@
 	"size": 5,
 	"tier": 6,
 	"drillTime": 100,
+	"itemCapacity": 250,
 	"consumes": {
 		"power": 4.5,
 		"liquid": {
