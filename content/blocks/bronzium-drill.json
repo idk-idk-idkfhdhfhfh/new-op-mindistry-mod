@@ -1,0 +1,24 @@
+{
+	"name": "Bronzium drill",
+	"description": "Very very powerfull drill with very great drill speed.",
+	"type": "Drill",
+	"size": 5,
+	"tier": 6,
+	"drillTime": 100,
+	"consumes": {
+		"power": 4.5,
+		"liquid": {
+			"liquid": "cryofluid", 
+			"amount": 0.2,
+			"booster": false
+		}
+	},
+	"requirements": [
+		{ "item": "bronzium", "amount": 250 },
+		{ "item": "bronze", "amount": 700 },
+		{ "item": "steel", "amount": 300 }
+		{ "item": "thorium", "amount": 250 }
+	],
+	"category": "production",
+	"research": "laser-drill"
+}

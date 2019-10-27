@@ -1,0 +1,15 @@
+{
+	"type": "SolarGenerator",
+	"name": "Small Bronze Solarpanel",
+	"description": "Small version on Bronze SolarPanel.",
+	"size": 1,
+	"hasPower": true,
+	"powerProduction": 0.3,
+	"requirements": [
+		{ "item": "bronze", "amount": 50 },
+		{ "item": "tin", "amount": 50 },
+		{ "item": "graphite", "amount": 15 }
+	],
+	"category": "power",
+	"research": "Big-Bronze-Solarpanel"
+}

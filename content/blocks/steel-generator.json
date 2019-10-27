@@ -1,0 +1,25 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "Steel Generator",
+	"description": "Big but efficient generator that makes energy from coal.",
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"itemDuration": 60,
+	"powerProduction": 7.0,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 2 }
+			],
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "steel", "amount": 400 },
+		{ "item": "bronze", "amount": 200 },
+		{ "item": "silicon", "amount": 100 }
+	],
+	"category": "power",
+	"research": "bronze-generator"
+}

@@ -1,0 +1,30 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "Bronzium Generator",
+	"description": "Super expensive bronzium generator.",
+	"size": 4,
+	"hasPower": true,
+	"hasItems": true,
+	"itemDuration": 75,
+	"liquidCapacity": 500,
+	"powerProduction": 50.0,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "thorium", "amount": 6 }
+			],
+			"optional": true
+		}
+		"liquid": {
+			"liquid": "cryofluid",
+			"amount": 0.6
+		}
+	},
+	"requirements": [
+		{ "item": "bronzium", "amount": 200 },
+		{ "item": "steel", "amount": 125 },
+		{ "item": "graphite", "amount": 300 }
+	],
+	"category": "power",
+	"research": "steel-generator"
+}

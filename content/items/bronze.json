@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "bronze",
+	"description": "Pretty orange ingot!",
+	"cost": 3.2,
+	"color": "FFA500"
+}

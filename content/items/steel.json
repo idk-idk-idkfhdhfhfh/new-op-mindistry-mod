@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Steel",
+	"description": "Uncommon alloy of Iron and Coal.",
+	"hardness": 1,
+	"cost": 3.5,
+	"color": "ffffff"
+}
