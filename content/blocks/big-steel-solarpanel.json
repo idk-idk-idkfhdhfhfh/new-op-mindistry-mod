@@ -1,14 +1,14 @@
 {
 	"type": "SolarGenerator",
 	"name": "Big Steel SolarPanel",
-	"description": "Small version on Steel SolarPanel.",
-	"size": 1,
+	"description": "Steel Solarpanel is Better version of Bronze Solarpanel.",
+	"size": 4,
 	"hasPower": true,
-	"powerProduction": 0.3,
+	"powerProduction": 3.0,
 	"requirements": [
-		{ "item": "bronze", "amount": 50 },
-		{ "item": "tin", "amount": 50 },
-		{ "item": "graphite", "amount": 15 }
+		{ "item": "steel", "amount": 320 },
+		{ "item": "iron", "amount": 150 },
+		{ "item": "graphite", "amount": 50 }
 	],
 	"category": "power",
 	"research": "small-steel-solarpanel"
