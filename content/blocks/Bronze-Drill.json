@@ -4,7 +4,7 @@
    	"description": "Little Drill that doesn't need energy",
    	"size": 3,
    	"tier": 3,
-   	"drillTime": 20,
+   	"drillTime": 425,
    	"itemCapacity": 25,
     "requirements":[
 		    { "item": "bronze", "amount": 20 },
