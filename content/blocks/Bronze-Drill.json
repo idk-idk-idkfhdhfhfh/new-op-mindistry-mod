@@ -1,9 +1,9 @@
 ﻿{
 "name": "Bronze Drill",
-"description": "Little Drill that don´t need energy",
+"description": "Little Drill that doesn't need energy",
 "type": "Drill",
 "size": 3,
-"tier": 6,
+"tier": 3,
 "drillTime": 20,
 "itemCapacity": 25,
 "consumes":{
