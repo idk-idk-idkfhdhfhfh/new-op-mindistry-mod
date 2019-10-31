@@ -1,7 +1,7 @@
 {
 	"type": "MendProjector",
 	"name": "Bronzium Mender",
-	"description": "Combines Bronze and Steel into Bronzium alloy (Dont't ask)",
+	"description": "High-end Mender made out of Bronzium. Repairs very quickly.",
 	"size": 3,
 	"hasPower": true,
 	"reload": 250,

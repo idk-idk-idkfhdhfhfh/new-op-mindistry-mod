@@ -13,5 +13,5 @@
 		{ "item": "silicon", "amount": 100 }
 	],
 	"category": "power",
-	"research": "Small-Bronze-Solarpanel"
+	"research": "surge-tower"
 }

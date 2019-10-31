@@ -1,14 +1,19 @@
 {
 	"type": "ForceProjector",
-	"name": "Bronzium Mender",
-	"description": "Combines Bronze and Steel into Bronzium alloy (Dont't ask)",
-	"size": 3,
+	"name": "Bronzium ForceField Projector",
+	"description": "End-game ForceField Projector made from Bronzium. Takes lot of power but protects you from any attack ",
+	"size": 4,
 	"hasPower": true,
+	"cooldownNormal": 1,
+	"radius": 250,
+	"phaseRadiusBoost": 150,
+	"powerDamage": 0.05,
+	"phaseUseTime": 100,
 	"consumes": {
-		"power": 1.0,
+		"power": 8.0,
 		"items": {
 			"items": [
-				{ "item": "tin", "amount": 1 }
+				{ "item": "phase-fabric", "amount": 1 }
 			]
 		},
 	},
@@ -21,6 +26,5 @@
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
-	"research": "steel-forge"
-	"idleSoundVolume": 0.5
+	"research": "bronzium-mender"
 }
