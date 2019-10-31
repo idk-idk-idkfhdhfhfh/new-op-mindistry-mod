@@ -4,21 +4,21 @@
 	"description": "High-end Mender made out of Bronzium. Repairs very quickly.",
 	"size": 3,
 	"hasPower": true,
-	"reload": 250,
-	"range": 400,
-	"healPercent": 30,
+	"reload": 200,
+	"range": 250,
+	"healPercent": 26,
 	"consumes": {
-		"power": 1.0,
+		"power": 6.0,
 	},
 	"requirements": [
-		{ "item": "steel", "amount": 500 },
-		{ "item": "bronze", "amount": 250 },
-		{ "item": "thorium", "amount": 150 },
-		{ "item": "plastanium", "amount": 150 },
-		{ "item": "titanium", "amount": 200 },
+		{ "item": "bronzium", "amount": 150 },
+		{ "item": "bronze", "amount": 325 },
+		{ "item": "steel", "amount": 150 },
+		{ "item": "titanium", "amount": 250 },
+		{ "item": "phase-fabric", "amount": 30 },
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
-	"research": "steel-forge"
+	"research": "bronzium-forge"
 	"idleSoundVolume": 0.5
 }

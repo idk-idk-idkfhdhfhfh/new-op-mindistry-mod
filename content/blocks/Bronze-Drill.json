@@ -1,21 +1,16 @@
-﻿{
-"name": "Bronze Drill",
-"description": "Little Drill that doesn't need energy",
-"type": "Drill",
-"size": 3,
-"tier": 3,
-"drillTime": 20,
-"itemCapacity": 25,
-"consumes":{
-    "liquid": "water",
-    "amount": 0.2,
-    "booster": true
-  }
-"requirements":[
-		{ "item": "bronze", "amount": 20 },
-        { "item": "tin", "amount":30 }
-        { "item": "copper", "amount":25 }
-    ],
-   "category": "production",
-   "research": "Pneumatic Drill"
+{
+	"type": "Drill",
+	"name": "Bronze Drill",
+   	"description": "Little Drill that doesn't need energy",
+   	"size": 3,
+   	"tier": 3,
+   	"drillTime": 20,
+   	"itemCapacity": 25,
+    "requirements":[
+		    { "item": "bronze", "amount": 20 },
+           	{ "item": "tin", "amount":30 }
+            { "item": "copper", "amount":25 }
+        ],
+       "category": "production",
+       "research": "pneumatic-drill"
 }

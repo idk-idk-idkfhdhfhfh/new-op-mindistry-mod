@@ -1,7 +1,8 @@
 {
-	"type": "Wall",
+	"type": "DeflectorWall",
 	"name": "Large Electric Bronzium Wall",
 	"description": "Wall made of Bronzium that uses Electricity, Wait! What?! That's Illegal!",
+	"maxDamageDeflect": 20,
 	"size": 2,
 	"health": 8400,
 	"hasPower": true,
