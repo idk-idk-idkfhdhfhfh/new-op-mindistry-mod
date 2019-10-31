@@ -1,0 +1,13 @@
+{
+	"type": "Wall",
+	"name": "Small Steel Wall",
+	"description": "Quite good wall made out of steel, has a little more HP Titanium wall",
+	"size": 1,
+	"health": 1000,
+	"requirements": [
+		{ "item": "steel", "amount": 8 },
+		{ "item": "iron", "amount": 2 },
+	],
+	"category": "crafting",
+	"research": "steel-forge"
+}

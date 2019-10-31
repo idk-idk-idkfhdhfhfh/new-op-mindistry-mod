@@ -1,0 +1,18 @@
+{
+	"type": "Wall",
+	"name": "Small Electric Bronzium Wall",
+	"description": "Wall made of Bronzium that uses Electricity, Wait! What?! That's Illegal!",
+	"size": 1,
+	"health": 1100,
+	"hasPower": true,
+	"consumes": {
+		"power": 0.05,
+	},
+	"requirements": [
+		{ "item": "bronzium", "amount": 4 },
+		{ "item": "bronze", "amount": 6 },
+		{ "item": "steel", "amount": 2 },
+	],
+	"category": "crafting",
+	"research": "bronzium-forge"
+}

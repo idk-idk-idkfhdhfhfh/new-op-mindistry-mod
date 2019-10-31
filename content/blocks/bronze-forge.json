@@ -7,10 +7,10 @@
 	"hasPower": true,
 	"hasLiquids": false,
 	"hasItems": true,
-	"craftTime": 60,
+	"craftTime": 30,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 2.0,
+		"power": 1.0,
 		"items": {
 			"items": [
 				{ "item": "tin", "amount": 1 }
