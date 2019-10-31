@@ -1,0 +1,24 @@
+{
+	"type": "MendProjector",
+	"name": "Bronzium Mender",
+	"description": "Combines Bronze and Steel into Bronzium alloy (Dont't ask)",
+	"size": 3,
+	"hasPower": true,
+	"reload": 250,
+	"range": 400,
+	"healPercent": 30,
+	"consumes": {
+		"power": 1.0,
+	},
+	"requirements": [
+		{ "item": "steel", "amount": 500 },
+		{ "item": "bronze", "amount": 250 },
+		{ "item": "thorium", "amount": 150 },
+		{ "item": "plastanium", "amount": 150 },
+		{ "item": "titanium", "amount": 200 },
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"research": "steel-forge"
+	"idleSoundVolume": 0.5
+}

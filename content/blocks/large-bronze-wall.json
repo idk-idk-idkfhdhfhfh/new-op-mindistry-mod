@@ -3,6 +3,7 @@
 	"name": "Large Bronze Wall",
 	"description": "Very Very bad Wall i really don't reccomend it!",
 	"size": 2,
+	"health": 1300,
 	"requirements": [
 		{ "item": "bronze", "amount": 12 },
 		{ "item": "copper", "amount": 4 },

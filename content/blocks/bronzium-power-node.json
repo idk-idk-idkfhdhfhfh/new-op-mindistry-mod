@@ -1,0 +1,17 @@
+{
+	"type": "PowerNode",
+	"name": "Bronzium Power Node",
+	"description": "Very good power node made of Bronzium. Has big range with many connections. Is Hybrid between Surge tower and Big Power Node.",
+	"size": 3,
+	"hasPower": true,
+	"maxNodes": 50,
+	"laserRange": 35,
+	"requirements": [
+		{ "item": "bronzium", "amount": 125},
+		{ "item": "bronze", "amount": 150 },
+		{ "item": "steel", "amount": 50 }
+		{ "item": "silicon", "amount": 100 }
+	],
+	"category": "power",
+	"research": "Small-Bronze-Solarpanel"
+}
