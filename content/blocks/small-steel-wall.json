@@ -8,6 +8,6 @@
 		{ "item": "steel", "amount": 8 },
 		{ "item": "iron", "amount": 2 },
 	],
-	"category": "crafting",
+	"category": "defense",
 	"research": "steel-forge"
 }

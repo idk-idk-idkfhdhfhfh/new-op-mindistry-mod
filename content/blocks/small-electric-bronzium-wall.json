@@ -13,6 +13,6 @@
 		{ "item": "bronze", "amount": 6 },
 		{ "item": "steel", "amount": 2 },
 	],
-	"category": "crafting",
+	"category": "defense",
 	"research": "bronzium-forge"
 }

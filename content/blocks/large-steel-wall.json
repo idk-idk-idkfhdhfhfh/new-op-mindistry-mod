@@ -3,11 +3,11 @@
 	"name": "Large steel wall",
 	"description": "Quite good wall made out of steel, has a little more HP Titanium wall",
 	"size": 2,
-	"health": 3500,
+	"health": 2300,
 	"requirements": [
 		{ "item": "steel", "amount": 24 },
 		{ "item": "iron", "amount": 6 },
 	],
-	"category": "crafting",
+	"category": "defense",
 	"research": "small-steel-wall"
 }

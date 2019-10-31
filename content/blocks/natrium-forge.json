@@ -1,0 +1,29 @@
+{
+	"type": "GenericSmelter",
+	"name": "Natrium Forge",
+	"description": "Combines intrium and metaglass to make Natrium for nuclear needs.",
+	"outputItem": {"item": "natrium", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 5.0,
+		"items": {
+			"items": [
+				{ "item": "intrium", "amount": 5 }
+				{ "item": "metaglass", "amount": 3 }
+			]
+		},
+	},
+	"requirements": [
+		{ "item": "intrium", "amount": 100 },
+		{ "item": "lead", "amount": 75 },
+		{ "item": "bronze", "amount": 60 },
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

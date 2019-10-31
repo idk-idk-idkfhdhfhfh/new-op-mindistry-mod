@@ -1,0 +1,24 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "Natrium Generator",
+	"description": "A radioactive generator which is using nuclear atoms to produce energy",
+	"size": 4,
+	"hasPower": true,
+	"hasItems": true,
+	"itemDuration": 72,
+	"powerProduction": 6.5,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "natrium", "amount": 1 }
+			],
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "graphite", "amount": 350 },
+		{ "item": "intrium", "amount": 80 },
+		{ "item": "thorium", "amount": 150 }
+	],
+	"category": "power",
+}
