@@ -2,7 +2,7 @@
 	"type": "SingleTypeGenerator",
 	"name": "Natrium Generator",
 	"description": "A radioactive generator which is using nuclear atoms to produce energy",
-	"size": 4,
+	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
 	"itemDuration": 72,
