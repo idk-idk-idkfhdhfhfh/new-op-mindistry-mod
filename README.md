@@ -27,7 +27,7 @@ Current plans can be viewed on Projects page
 - Bronze Router (3x3 version of router, requested by Pomepyr)
 #### Turrets 
 - Bronze Turret (Currently missing sprite and is currently WIP)
-#### Items added by SomeRandomPerson
+#### Items added by Ficus150
 - Natrium
 - Intrium
 - Natrium Forge
