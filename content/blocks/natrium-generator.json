@@ -21,4 +21,5 @@
 		{ "item": "thorium", "amount": 150 }
 	],
 	"category": "power",
+	"research": "natrium-forge"
 }

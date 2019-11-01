@@ -1,17 +1,18 @@
 {
-    "name": "steel drill",
-    "description": "Mid age drill",
+    "name": "Steel Drill",
+    "description": "Mid-game Drill made from steel alloy. Needs energy to run.",
     "type": "Drill",
     "size": 4,
     "tier": 6,
-    "drillTime": 400,
+    "drillTime": 375,
     "itemCapacity":20 ,
     "consumes": {
         "power": 0.3,
         "liquid": {
             "liquid": "water", 
             "amount": 0.1,
-            "booster": true
+            "booster": true,
+            "optional": true,
         }
     },
     "requirements": [
@@ -20,5 +21,5 @@
         { "item": "tin", "amount": 100 }
     ],
     "category": "production",
-    "research": "laser-drill"
+    "research": "bronze-drill"
 }

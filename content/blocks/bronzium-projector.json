@@ -24,7 +24,7 @@
 		{ "item": "titanium", "amount": 400 },
 		{ "item": "phase-fabric", "amount": 50 },
 	],
-	"category": "crafting",
+	"category": "effect",
 	"idleSound": "respawning",
 	"research": "bronzium-mender"
 }

@@ -17,7 +17,7 @@
 		{ "item": "titanium", "amount": 250 },
 		{ "item": "phase-fabric", "amount": 30 },
 	],
-	"category": "crafting",
+	"category": "effect",
 	"idleSound": "respawning",
 	"research": "bronzium-forge"
 	"idleSoundVolume": 0.5

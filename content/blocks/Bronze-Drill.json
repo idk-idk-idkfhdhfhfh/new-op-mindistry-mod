@@ -3,9 +3,10 @@
 	"name": "Bronze Drill",
    	"description": "Little Drill that doesn't need energy",
    	"size": 3,
-   	"tier": 3,
-   	"drillTime": 425,
-   	"itemCapacity": 25,
+	"tier": 3,
+	"liquidBoostIntensity": 1,
+   	"drillTime": 500,
+   	"itemCapacity": 5,
     "requirements":[
 		    { "item": "bronze", "amount": 20 },
            	{ "item": "tin", "amount":30 }
