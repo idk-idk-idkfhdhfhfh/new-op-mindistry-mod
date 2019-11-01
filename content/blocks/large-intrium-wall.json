@@ -1,0 +1,13 @@
+{
+	"type": "Wall",
+	"name": "Large Intrium Wall",
+	"description": "A bigger way to protect and admire.",
+	"size": 2,
+    "health": 2800,
+	"requirements": [
+		{ "item": "intrium", "amount": 30 },
+		{ "item": "natrium", "amount": 10 },
+	],
+	"category": "defense",
+	"research": "intrium-wall"
+}

@@ -1,0 +1,13 @@
+{
+	"type": "Wall",
+	"name": "Intrium Wall",
+	"description": "A bright red wall, makes you want to press it.",
+	"size": 1,
+    "health": 520,
+	"requirements": [
+		{ "item": "natrium", "amount": 1 },
+		{ "item": "intrium", "amount": 10 },
+	],
+	"category": "defense",
+	"research": "titanium-wall"
+}
