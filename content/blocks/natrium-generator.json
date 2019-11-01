@@ -5,18 +5,18 @@
 	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
-	"itemDuration": 72,
-	"powerProduction": 6.5,
+	"itemDuration": 58,
+	"powerProduction": 10,
 	"consumes": {
 		"items": {
 			"items": [
-				{ "item": "natrium", "amount": 1 }
+				{ "item": "natrium", "amount": 2 }
 			],
 			"optional": true
 		}
 	},
 	"requirements": [
-		{ "item": "graphite", "amount": 350 },
+		{ "item": "graphite", "amount": 150 },
 		{ "item": "intrium", "amount": 80 },
 		{ "item": "thorium", "amount": 150 }
 	],
