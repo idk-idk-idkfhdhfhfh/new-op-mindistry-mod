@@ -7,10 +7,10 @@
 	"hasPower": true,
 	"hasLiquids": false,
 	"hasItems": true,
-	"craftTime": 60,
+	"craftTime": 46,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 5.0,
+		"power": 3.0,
 		"items": {
 			"items": [
 				{ "item": "intrium", "amount": 5 }
