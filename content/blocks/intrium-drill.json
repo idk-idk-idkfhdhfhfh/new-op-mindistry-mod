@@ -1,0 +1,17 @@
+{
+	"type": "Drill",
+	"name": "Intrium Drill",
+   	"description": "A specific self-working drill.",
+   	"size": 2,
+	"tier": 3,
+	"liquidBoostIntensity": 1,
+   	"drillTime": 570,
+   	"itemCapacity": 10,
+    "requirements":[
+		    { "item": "iron", "amount": 20 },
+           	{ "item": "intrium", "amount":30 }
+            { "item": "copper", "amount":50 }
+        ],
+       "category": "production",
+       "research": "laser-drill"
+}
