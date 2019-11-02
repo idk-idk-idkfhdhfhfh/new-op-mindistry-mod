@@ -1,0 +1,15 @@
+{
+	"type": "SolarGenerator",
+	"name": "Intrium Solar Panel",
+	"description": "A better and easy source of power.",
+	"size": 1,
+	"hasPower": true,
+	"powerProduction": 1,
+	"requirements": [
+		{ "item": "intrium", "amount": 50 },
+		{ "item": "metaglass", "amount": 50 },
+		{ "item": "graphite", "amount": 15 }
+	],
+	"category": "power",
+	"research": "power-node"
+}
