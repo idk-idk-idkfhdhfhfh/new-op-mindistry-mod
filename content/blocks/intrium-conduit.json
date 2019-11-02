@@ -1,0 +1,15 @@
+{
+	"type": "Conduit",
+	"name": "Intrium Conduit",
+	"description": "An advanced conduit which helps transporting liquids fast.",
+	"itemCapacity": 10,
+	"requirements": [
+		{"item": "intrium", "amount": 2},
+		{"item": "natrium", "amount": 1},
+		{"item": "tin", "amount": 1},
+		{"item": "copper", "amount": 3},
+	],
+	"category": "distribution",
+	"speed": 0.25,
+	"research": "pulse-conduit"
+}
