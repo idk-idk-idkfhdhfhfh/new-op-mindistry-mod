@@ -2,7 +2,7 @@
 	"type": "Wall",
 	"name": "Small Bronze Wall",
 	"description": "Very Very bad Wall i really don't reccomend it!",
-	"size": 2,
+	"size": 1,
     "health": 380,
 	"requirements": [
 		{ "item": "bronze", "amount": 3 },
