@@ -5,11 +5,16 @@
 	"size": 3,
 	"hasPower": true,
 	"reload": 200,
-	"range": 250,
+	"range": 150,
 	"healPercent": 26,
 	"consumes": {
-		"power": 6.0,
-	},
+		"power": 7.0,
+		"items": {
+			"items": [ { "amount": 1, "item": "phase-fabric" } ],
+			"booster": true,
+			"optional": true
+		}
+    },
 	"requirements": [
 		{ "item": "bronzium", "amount": 150 },
 		{ "item": "bronze", "amount": 325 },

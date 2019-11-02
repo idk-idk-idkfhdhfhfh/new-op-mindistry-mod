@@ -3,6 +3,7 @@
 	"name": "Bronzium Conveyor",
 	"description": "Bronzium Conveyor is Late game Conveyor which is better than Titanium!.",
 	"itemCapacity": 10,
+	"buildCostMultiplier": 0.1,
 	"requirements": [
 		{"item": "bronzium", "amount": 2},
 		{"item": "bronze", "amount": 1},

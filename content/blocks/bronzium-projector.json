@@ -4,25 +4,27 @@
 	"description": "End-game ForceField Projector made from Bronzium. Takes lot of power but protects you from any attack ",
 	"size": 4,
 	"hasPower": true,
-	"cooldownNormal": 1,
-	"radius": 250,
-	"phaseRadiusBoost": 150,
+	"cooldownNormal": 0.1,
+	"radius": 200,
+	"phaseRadiusBoost": 100,
 	"powerDamage": 0.05,
 	"phaseUseTime": 100,
+	"breakage": 10000,
+	"buildCostMultiplier": 2.5,
 	"consumes": {
-		"power": 8.0,
+		"power": 30.0,
 		"items": {
-			"items": [
-				{ "item": "phase-fabric", "amount": 1 }
-			]
-		},
-	},
+			"items": [ { "amount": 1, "item": "phase-fabric" } ],
+			"booster": true,
+			"optional": true
+		}
+    },
 	"requirements": [
-		{ "item": "bronzium", "amount": 325 },
+		{ "item": "bronzium", "amount": 650 },
 		{ "item": "bronze", "amount": 500 },
 		{ "item": "steel", "amount": 250 },
 		{ "item": "titanium", "amount": 400 },
-		{ "item": "phase-fabric", "amount": 50 },
+		{ "item": "phase-fabric", "amount": 450 },
 	],
 	"category": "effect",
 	"idleSound": "respawning",
