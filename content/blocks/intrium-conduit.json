@@ -1,5 +1,5 @@
 {
-	"type": "liquid",
+	"type": "conduit",
 	"name": "Intrium Conduit",
 	"description": "An advanced conduit which helps transporting liquids fast.",
 	"liquidCapacity": 10,
