@@ -2,7 +2,7 @@
 	"type": "Drill",
 	"name": "Intrium Drill",
    	"description": "A specific self-working drill.",
-   	"size": 2,
+   	"size": 3,
 	"tier": 3,
 	"liquidBoostIntensity": 1,
    	"drillTime": 570,
