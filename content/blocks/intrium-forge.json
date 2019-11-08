@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "Intrium Forge",
+	"description": "A different type of forge.. which is using Tin and Lead to create Intrium",
+	"outputItem": {"item": "bronze", "amount": 4},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 30,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1.5,
+		"items": {
+			"items": [
+				{ "item": "tin", "amount": 1 }
+				{ "item": "lead", "amount": 2 }
+			]
+		},
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 100 },
+		{ "item": "lead", "amount": 75 },
+		{ "item": "tin", "amount": 24 },
+	],
+	"category": "crafting",
+	"idleSound": "respawning",
+	"research": "graphite-press"
+	"idleSoundVolume": 2
+}
