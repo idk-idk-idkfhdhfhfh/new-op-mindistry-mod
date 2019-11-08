@@ -8,7 +8,7 @@
 	"requirements": [
 		{ "item": "intrium", "amount": 50 },
 		{ "item": "metaglass", "amount": 50 },
-		{ "item": "graphite", "amount": 15 }
+		{ "item": "graphite", "amount": 30 }
 	],
 	"category": "power",
 	"research": "power-node"
