@@ -3,7 +3,7 @@
 	"name": "Bronzium Forge",
 	"description": "Combines Bronze and Steel into Bronzium alloy (Dont't ask)",
 	"outputitem":{"item":"copper","amount":100},
-{"item":"lead","amount":100},
+        {"item":"lead","amount":100},
 	"size": 3,
 	"hasPower": true,
 	"hasLiquids": false,
