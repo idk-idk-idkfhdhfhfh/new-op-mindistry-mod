@@ -2,26 +2,22 @@
 	"type": "GenericSmelter",
 	"name": "Bronze Forge",
 	"description": "Combines copper and tin to make Bronze for all your needs",
-	"outputItem": {"item": "bronze", "amount": 4},
+	"outputItem": {"item": "silicon", "amount": 900},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": false,
 	"hasItems": true,
-	"craftTime": 30,
+	"craftTime": 0.1,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 1.0,
 		"items": {
 			"items": [
-				{ "item": "tin", "amount": 1 }
-				{ "item": "copper", "amount": 3 }
+				{ "item": "copper", "amount": 1 }
 			]
 		},
 	},
 	"requirements": [
-		{ "item": "copper", "amount": 100 },
-		{ "item": "lead", "amount": 75 },
-		{ "item": "tin", "amount": 60 },
+		{ "item": "copper", "amount": 1 }
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
