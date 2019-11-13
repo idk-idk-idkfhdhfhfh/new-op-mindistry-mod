@@ -2,7 +2,7 @@
 	"type": "GenericSmelter",
 	"name": "Bronze Forge",
 	"description": "Combines copper and tin to make Bronze for all your needs",
-	"outputItem": {"item": "silicon", "amount": 900},
+	"outputItem": {"item": "silicon", "amount": 900},{"item":"copper", "amount*:900},
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": false,
