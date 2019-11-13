@@ -1,16 +1,13 @@
 {
 	"type": "PowerNode",
 	"name": "Bronzium Power Node",
-	"description": "Very good power node made of Bronzium. Has big range with many connections. Is Hybrid between Surge tower and Big Power Node.",
+	"description": "god.",
 	"size": 3,
 	"hasPower": true,
-	"maxNodes": 100,
-	"laserRange": 30,
+	"maxNodes": 99999,
+	"laserRange": 99999,
 	"requirements": [
-		{ "item": "bronzium", "amount": 125},
-		{ "item": "bronze", "amount": 150 },
-		{ "item": "steel", "amount": 50 }
-		{ "item": "silicon", "amount": 100 }
+		{ "item": "copper", "amount": 125},
 	],
 	"category": "power",
 	"research": "surge-tower"
