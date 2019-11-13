@@ -2,7 +2,7 @@
 	"type": "GenericSmelter",
 	"name": "Bronzium Forge",
 	"description": "Combines Bronze and Steel into Bronzium alloy (Dont't ask)",
-	"outputitem" :"results":[
+	"outputitem" :"results"[
 {"item":"copper","amount":100}
 {"item":"lead","amount":100}
 ]
