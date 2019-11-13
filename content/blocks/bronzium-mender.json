@@ -1,29 +1,20 @@
 {
 	"type": "MendProjector",
 	"name": "Bronzium Mender",
-	"description": "High-end Mender made out of Bronzium. Repairs very quickly.",
+	"description": "god.",
 	"size": 3,
 	"hasPower": true,
-	"reload": 200,
-	"range": 150,
-	"healPercent": 26,
+	"reload": 2,
+	"range": 999,
+	"healPercent": 100,
 	"consumes": {
-		"power": 7.0,
-		"items": {
-			"items": [ { "amount": 1, "item": "phase-fabric" } ],
-			"booster": true,
-			"optional": true
-		}
+		"power": 0.0
     },
 	"requirements": [
-		{ "item": "bronzium", "amount": 150 },
-		{ "item": "bronze", "amount": 325 },
-		{ "item": "steel", "amount": 150 },
-		{ "item": "titanium", "amount": 250 },
-		{ "item": "phase-fabric", "amount": 30 },
+		{ "item": "copper", "amount": 1 },
 	],
 	"category": "effect",
 	"idleSound": "respawning",
-	"research": "bronzium-forge"
+	"research": "duo"
 	"idleSoundVolume": 0.5
 }
