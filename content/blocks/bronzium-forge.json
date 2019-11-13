@@ -2,7 +2,7 @@
 	"type": "GenericSmelter",
 	"name": "Bronzium Forge",
 	"description": "Combines Bronze and Steel into Bronzium alloy (Dont't ask)",
-	"outputitem":{"item":"surge-alloy","amount":100}, 
+	"outputitem":{"item":"copper","amount":100}, 
 	"size": 3,
 	"hasPower": true,
 	"hasLiquids": false,
