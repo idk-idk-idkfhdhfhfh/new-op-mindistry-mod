@@ -1,18 +1,18 @@
 {
 	"type": "ForceProjector",
 	"name": "Bronzium ForceField Projector",
-	"description": "End-game ForceField Projector made from Bronzium. Takes lot of power but protects you from any attack ",
+	"description": "defense god ",
 	"size": 4,
 	"hasPower": true,
 	"cooldownNormal": 0.1,
 	"radius": 200,
 	"phaseRadiusBoost": 100,
-	"powerDamage": 0.05,
-	"phaseUseTime": 100,
-	"breakage": 10000,
-	"buildCostMultiplier": 2.5,
+	"powerDamage": 0.0,
+	"phaseUseTime": 10000,
+	"breakage": 9999999999,
+	"buildCostMultiplier": 1,
 	"consumes": {
-		"power": 30.0,
+		"power": 0.0,
 		"items": {
 			"items": [ { "amount": 1, "item": "phase-fabric" } ],
 			"booster": true,
@@ -20,13 +20,9 @@
 		}
     },
 	"requirements": [
-		{ "item": "bronzium", "amount": 650 },
-		{ "item": "bronze", "amount": 500 },
-		{ "item": "steel", "amount": 250 },
-		{ "item": "titanium", "amount": 400 },
-		{ "item": "phase-fabric", "amount": 450 },
+		{ "item": "copper", "amount": 1 },
 	],
 	"category": "effect",
 	"idleSound": "respawning",
-	"research": "bronzium-mender"
+	"research": "duo"
 }
