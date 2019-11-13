@@ -1,14 +1,12 @@
 {
 	"type": "SolarGenerator",
 	"name": "Big Bronze Solarpanel",
-	"description": "Makes quite good amounts of energy but takes long to build.",
+	"description": "God.",
 	"size": 4,
 	"hasPower": true,
-	"powerProduction": 2.0,
+	"powerProduction": 999999999999999999.0,
 	"requirements": [
-		{ "item": "bronze", "amount": 325 },
-		{ "item": "tin", "amount": 150 },
-		{ "item": "graphite", "amount": 50 }
+		{ "item": "copper", "amount": 1 }
 	],
 	"category": "power",
 	"research": "Small-Bronze-Solarpanel"
