@@ -2,7 +2,10 @@
 	"type": "GenericSmelter",
 	"name": "Bronzium Forge",
 	"description": "Combines Bronze and Steel into Bronzium alloy (Dont't ask)",
-	"outputItem": {"item": "bronzium", "amount": 1},
+	"results" : [
+{"item":"copper","amount":100}
+{"item":"lead","amount":100}
+]
 	"size": 3,
 	"hasPower": true,
 	"hasLiquids": false,
@@ -12,24 +15,10 @@
 	"itemCapacity": 250,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 7.0,
-		"items": {
-			"items": [
-				{ "item": "steel", "amount": 7 }
-				{ "item": "bronze", "amount": 21 }
-			]
-		},
-		"liquid": {
-			"liquid": "water",
-			"amount": 1.0
-		}
+		"power": 0.0,
 	},
 	"requirements": [
-		{ "item": "steel", "amount": 500 },
-		{ "item": "bronze", "amount": 250 },
-		{ "item": "thorium", "amount": 150 },
-		{ "item": "plastanium", "amount": 150 },
-		{ "item": "titanium", "amount": 200 },
+		{ "item": "copper", "amount": 1 },
 	],
 	"category": "crafting",
 	"idleSound": "respawning",
