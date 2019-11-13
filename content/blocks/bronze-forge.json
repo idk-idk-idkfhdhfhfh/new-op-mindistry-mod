@@ -10,10 +10,6 @@
 	"craftTime": 0.1,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"items": {
-			"items": [
-				{ "item": "copper", "amount": 1 }
-			]
 		},
 	},
 	"requirements": [
