@@ -7,7 +7,7 @@
 	"maxNodes": 99999,
 	"laserRange": 99999,
 	"requirements": [
-		{ "item": "copper", "amount": 125},
+		{ "item": "copper", "amount": 1},
 	],
 	"category": "power",
 	"research": "surge-tower"
